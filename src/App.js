@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       <h1>Hello ReactT</h1>
-      <div>Test</div>
+      <div>Test2</div>
     </div>
   );
 }
